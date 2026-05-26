@@ -1,3 +1,3 @@
 create database humonbodydb
 go 
-using humon
+use humonbody.db
